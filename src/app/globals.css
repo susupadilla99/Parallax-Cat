@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.moon {
+    background-image: url('/moon.png');
+}
+
+.land {
+    background-image: url('/land.png');
+}
+
+.cat {
+    background-image: url('/cat.gif');
+}
